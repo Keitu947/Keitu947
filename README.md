@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keitu947
 - 👀 I’m interested in front-end web development 
-- 🌱 I’m currently learning front-end web development 
+- 🌱 I’m currently learning html,css, Javascript and boostrap
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
